@@ -30,8 +30,8 @@
   ],
   "dependencies": {
     "got": "^6.3.0",
-    "jayson": "^2.0.2",
-    "pify": "^2.3.0"
+    "jayson": "^3.4.4",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "ava": "*",
